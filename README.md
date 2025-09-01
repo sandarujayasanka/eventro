@@ -24,7 +24,7 @@ Eventro is an online platform for event services, similar to ikman.lk but focuse
 - User-specific dashboards for admin, seller, and client
 
 ## Tech Stack
-- **Frontend:** HTML, Tailwind CSS  
+- **Frontend:** HTML, Tailwind CSS, Js  
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Version Control:** Git, GitHub  
